@@ -30,7 +30,7 @@ p {
 
 /* Links and buttons */
 a {
-    color: #FFF;
+    color: #111;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -42,7 +42,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #FFF;
+    color: #333;
     text-decoration: none;
     outline: 0;
 }
@@ -114,7 +114,7 @@ background-attachment: relative;
 background-position: center center;
 min-height: 650px;
 width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -193,7 +193,7 @@ width: 100%;
 	color: #2d2a19;
 	font-size: 28px;
 	font-weight: 700;
-	letter-spacing: 1px;	
+	letter-spacing: 1px;
 }
 
 .contentwrap h1 {
@@ -212,7 +212,7 @@ width: 100%;
 
 .contentwrap.dark h3,
 .contentwrap.dark h4 {
-	color: #FFF;	
+	color: #FFF;
 }
 
 .contentwrap i {
@@ -330,7 +330,7 @@ width: 100%;
 .menu a > i {
 	float: left;
 	display: inline-block;
-	vertical-align: middle; 
+	vertical-align: middle;
 	text-align: left;
 	width: 25px;
 	font-size: 14px;
@@ -436,7 +436,7 @@ footer {
 	min-height: 200px;
 	width: 100%;
 	line-height: 30px;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -487,7 +487,3 @@ footer .social {
 .wufoo-form-container {
 	height: 350px !important;
 }
-
-
-
-
