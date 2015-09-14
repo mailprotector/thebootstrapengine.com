@@ -40,11 +40,19 @@ a {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
+footer a {
+  color:#E9DC41;
+}
+
 a:hover,
 a:focus {
     color: #333;
     text-decoration: none;
     outline: 0;
+}
+
+footer a:hover, footer a:focus {
+  color:#E9DC41;
 }
 
 a:before,
